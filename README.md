@@ -6,8 +6,8 @@
 
 ## Less talk and more action!!
 
-- 🔭 Co-Founder of: [Career-Path][my_website]!
-- 🌱 Currently learning advanced web development from Harvard University's CS50X.
+- 🔭 Harvard CS50X!
+- 🌱 Currently pursuing my undergrad from Indian Institute of Technology, Kharagpur.
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to eat and watch Football.
 
