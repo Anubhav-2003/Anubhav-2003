@@ -46,21 +46,6 @@ This stack reflects my focus on both deep learning implementation and full-stack
 
 ---
 
-### 🛠️ Key Projects
-
-**1. "S1" - Language Model from Scratch**
-* **Description:** Building a ~125-150M parameter decoder-only Transformer to deeply understand modern LLM architecture.
-* **Key Features:** Implementing all core components from scratch in PyTorch, including the multi-head attention mechanism, Rotary Position Embeddings (RoPE), and normalization layers (like RMSNorm).
-* **Goal:** Moving beyond high-level APIs to master the low-level implementation details.
-* **Status:** *[Add your repo link here when public]*
-
-**2. Full-Stack Placement Portal (ChemE Dept, IIT-KGP)**
-* **Description:** Developing a full-stack web application to manage and streamline the placement and internship process for the Chemical Engineering Department.
-* **Tech Stack:** *(You can fill this in, e.g., React, Node.js, MySQL)*
-* **Status:** *[Add your repo link here]*
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -80,3 +65,4 @@ This stack reflects my focus on both deep learning implementation and full-stack
 
 [website]: https://anubhavbanerjee.netlify.app/
 [linkedin]: https://www.linkedin.com/in/anubhav-banerjee-133639200/
+
